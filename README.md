@@ -26,8 +26,7 @@ Built with **HTML, CSS, and JavaScript** – simple yet engaging!
 
 ## 📸 Screenshots  
 
-![Gameplay Screenshot](./screenshot.png)  
-*(Add your screenshot here by saving it as `screenshot.png` in the repo root)*  
+![Gameplay Screenshot](./screenshot.png) 
 
 ---
 
@@ -48,4 +47,4 @@ Built with **HTML, CSS, and JavaScript** – simple yet engaging!
 ## 📂 Installation  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/manish-850/tic-tac-toe.git
