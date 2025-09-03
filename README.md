@@ -26,7 +26,7 @@ Built with **HTML, CSS, and JavaScript** – simple yet engaging!
 
 ## 📸 Screenshots  
 
-![Gameplay Screenshot](./screenshot.png) 
+![Gameplay Screenshot](./Screenshot.png) 
 
 ---
 
